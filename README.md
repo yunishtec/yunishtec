@@ -1,21 +1,12 @@
-<h1 align="center">Hi 👋, I'm yunish bhatta(Techify)</h1>
+<h1 align="center">Hi 👋, I'm yunish bhatta</h1>
 <h3 align="center">A passionate programmer/high school student</h3>
-
-- 🔭 I’m currently working on **making an custom chatbot**
+-I know HTML,CSS and java-script
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to collaborate on **...........**
-
-- 🤝 I’m looking for help with **..........**
-
-- 📝 I regularly write articles on [nepaltechhub.com](nepaltechhub.com)
-
-- 💬 Ask me about **html and css**
-
 - 📫 How to reach me **yunishb67@gmail.com**
 
-- ⚡ Fun fact **I am not funny with other but with myself i am like comedian**
+- ⚡ Fun fact **I am an programmer with programmed programmed  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
